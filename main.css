@@ -1,0 +1,15 @@
+nav{
+    width: 15%;
+    float:left;
+}
+main{
+    width:15%;
+    float:left;
+}
+aside{
+    width:15%;
+    float:left;
+}
+footer{
+    clear: left;
+}
